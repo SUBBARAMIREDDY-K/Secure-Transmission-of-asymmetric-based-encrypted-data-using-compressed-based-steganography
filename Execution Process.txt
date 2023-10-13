@@ -1,0 +1,7 @@
+1. Run the Main method.
+2. open the Tkinter console.
+3. click on the open Image and select the image from the samples folder.
+4. Enter the text in the input box and click on the Hide data button.
+5. After that click on the save button it will save the .png image.
+6. Again click on the open Image and select the image from the sample folder of png fromat.
+7. Click on the show data it will show the data which is hidden in the image.
